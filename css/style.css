@@ -2326,12 +2326,12 @@ p {
     }
     
     .profile-image {
-        width: 80px;
-        height: 80px;
+        width: 50px;
+        height: 50px;
     }
     
     .profile-placeholder {
-        font-size: 2rem;
+        font-size: 1.2rem;
     }
     
     .navigation {
